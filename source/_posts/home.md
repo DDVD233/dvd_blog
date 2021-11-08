@@ -9,6 +9,8 @@ academia: true
 
 I am an undergraduate student at Emory University, majoring in Computer Science and Math. I currently in Emory Brain Network Lab under the supervision of [Dr. Carl Yang](http://www.cs.emory.edu/~jyang71/) and [Hejie Cui](https://hejiecui.com/).
 
+Before joining Emory Brain Network Lab, I worked with [Dr. John Duncan](https://www.math.emory.edu/people/faculty/individual.php?NUM=392) on umbral moonshine and others. My work was primarily on determining the modular form trace functions obtained from the action of Spin(24) on V-supernatural.
+
 My research interests lie in graph data mining, with an emphasis on interpretable machine learning, graph neural networks and multi-modality learning. 
 
 # Publications
