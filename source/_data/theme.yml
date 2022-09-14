@@ -2,8 +2,8 @@ favicon: /img/favicon.jpg
 # Change to your profile picture
 avatar: /img/profile.png
 # if author sets in hexo_config, this string doesn't work
-author: 'David Dai'
-author_bio: 'Emory University Class of 2022 Computer Science and Math Major'
+author: 'Wei Dai'
+author_bio: 'MSCS student at Stanford University'
 
 since: 2021
 
@@ -26,7 +26,7 @@ loading_bg:
 social:
   enable: true
 social_links:
-  fab fa-twitter: https://twitter.com/ddvd233
+  fab fa-twitter: https://twitter.com/DVD_aca
 #  fab fa-facebook-square: /
   fab fa-github: https://github.com/DDavid233
 #  fab fa-stack-overflow: /
@@ -34,7 +34,7 @@ social_links:
 #  fab fa-weibo: /
 #  fab fa-weixin: /
 #  fab fa-qq: /
-  fas fa-envelope: mailto:a@ddavid.net
+  fas fa-envelope: mailto:dvd.ai@stanford.edu
 #  fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
@@ -42,8 +42,8 @@ social_links:
 e_social:
   enable: true
 e_social_links:
-  Google Scholar: / || fas fa-graduation-cap
-  ORCID: / || fab fa-orcid
+  Google Scholar: https://scholar.google.com/citations?user=N1x7v90AAAAJ || fas fa-graduation-cap
+  ORCID: https://orcid.org/0000-0002-1936-0407 || fab fa-orcid
 
 # CV download link
 cv_dl:
