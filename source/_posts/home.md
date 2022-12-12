@@ -15,7 +15,7 @@ My research interests lie in graph data mining, with an emphasis on interpretabl
 
 # Publications
 
-- Xuan Kan, Wei Dai, Hejie Cui, Zilong Zhang, Ying Guo, Carl Yang: [Brain Network Transformer](https://openreview.net/pdf?id=1cJ1cbA6NLN), Conference on Neural Information Processing Systems (NeurIPS), 2022. (Oral Presentation)
+- Xuan Kan, **Wei Dai**, Hejie Cui, Zilong Zhang, Ying Guo, Carl Yang: [Brain Network Transformer](https://openreview.net/pdf?id=1cJ1cbA6NLN), Conference on Neural Information Processing Systems (NeurIPS), 2022. (Oral Presentation)
 
 - Hejie Cui, **Wei Dai**, Yanqiao Zhu, Xiaoxiao Li, Lifang He, Carl Yang. [Interpretable Graph Neural Networks for Connectome-Based Brain Disorder Analysis](https://arxiv.org/abs/2207.00813), MICCAI, 2022. (Oral Presentation, <a href="/resources/BrainNNExplainer_poster.pdf" target="_blank">Poster</a>)
 
