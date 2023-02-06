@@ -7,13 +7,17 @@ academia: true
 
 # About me
 
-I am a masters student at Stanford University majoring in Computer Science. I graduated with the highest honor in Computer Science and Math from Emory University. I am currently in the Emory Brain Network Lab under the supervision of [Dr. Carl Yang](http://www.cs.emory.edu/~jyang71/).
+I am a masters student at Stanford University majoring in Computer Science. I am currently in Stanford SVL and Partnership in AI-Assisted Care (PAC) Lab supervised by [Dr. Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li/) and [Dr. Ehsan Adeli](http://stanford.edu/~eadeli/). 
+
+Before joining Stanford, I graduated with the highest honor in Computer Science and Math from Emory University. I was in Emory Brain Network Lab under the supervision of [Dr. Carl Yang](http://www.cs.emory.edu/~jyang71/), working on graph mining in the area of healthcare. 
 
 Before joining Emory Brain Network Lab, I worked with [Dr. John Duncan](https://www.math.emory.edu/people/faculty/individual.php?NUM=392) on umbral moonshine and others. My work was primarily on determining the modular form trace functions obtained from the action of Spin(24) on V-supernatural.
 
 My research interests lie in graph data mining, with an emphasis on interpretable machine learning, graph neural networks and multi-modality learning. 
 
 # Publications
+
+- **Wei Dai**, Hejie Cui, Xuan Kan, Ying Guo, Carl Yang: Transformer Based Hierarchical Clus- tering On Brain Networks, IEEE International Symposium on Biomedical Imaging (IEEE-ISBI), 2023.
 
 - Xuan Kan, **Wei Dai**, Hejie Cui, Zilong Zhang, Ying Guo, Carl Yang: [Brain Network Transformer](https://openreview.net/pdf?id=1cJ1cbA6NLN), Conference on Neural Information Processing Systems (NeurIPS), 2022. (Oral Presentation)
 
