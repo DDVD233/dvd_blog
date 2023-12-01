@@ -13,11 +13,19 @@ Before joining Stanford, I graduated with the highest honor in Computer Science 
 
 Before joining Emory Brain Network Lab, I worked with [Dr. John Duncan](https://www.math.emory.edu/people/faculty/individual.php?NUM=392) on umbral moonshine and others. My work was primarily on determining the modular form trace functions obtained from the action of Spin(24) on V-supernatural.
 
-My research interests lie in graph data mining, with an emphasis on interpretable machine learning, graph neural networks and multi-modality learning. 
+My research interests lie in Computer Vision, Graph Learning, Bio-Informatics, AI in Healthcare, Interpretability, and Explainability.
+
+[Stanford Profile](https://profiles.stanford.edu/david-dai)
+
+# Preprints
+
+- **Wei Dai**, Zelun Luo, Zane Durante, Debadutta Dash, Arnold Milstein, Kevin Schulman, Ehsan Adeli, Li Fei-Fei: Towards Fine-Grained Video Question Answering, In Submission to Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+
+- Zelun Luo, Debadutta Dash, **Wei Dai**, Shrinidhi Kowshika Lakshmikanth, Ehsan Adeli, Arnold Milstein, Li Fei-Fei, Kevin Schulman: Clinical Behavioral Atlas, In Submission to The New England Journal of Medicine (NEJM), 2023.
 
 # Publications
 
-- **Wei Dai**, Hejie Cui, Xuan Kan, Ying Guo, Carl Yang: Transformer Based Hierarchical Clus- tering On Brain Networks, IEEE International Symposium on Biomedical Imaging (IEEE-ISBI), 2023.
+- **Wei Dai**, Hejie Cui, Xuan Kan, Ying Guo, Carl Yang: Transformer Based Hierarchical Clustering on Brain Networks, IEEE International Symposium on Biomedical Imaging (IEEE-ISBI), 2023.
 
 - Xuan Kan, **Wei Dai**, Hejie Cui, Zilong Zhang, Ying Guo, Carl Yang: [Brain Network Transformer](https://openreview.net/pdf?id=1cJ1cbA6NLN), Conference on Neural Information Processing Systems (NeurIPS), 2022. (Oral Presentation)
 
