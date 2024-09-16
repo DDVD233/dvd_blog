@@ -13,7 +13,7 @@ since: 2021
 menu:
   Publications: /#Publications
   About: /
-  Artworks: https://dvd.moe
+#  Artworks: https://dvd.moe
 #  Blog: https://phower.me
 
 # flink picture will load if avator link calls on error

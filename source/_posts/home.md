@@ -7,21 +7,19 @@ academia: true
 
 # About me
 
-I am a masters student at Stanford University majoring in Computer Science. I am currently in Stanford SVL and Partnership in AI-Assisted Care (PAC) Lab supervised by [Dr. Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li/) and [Dr. Ehsan Adeli](http://stanford.edu/~eadeli/). 
+I am a [Media Lab](https://media.mit.edu/) student at MIT under the supervision of [Dr. Paul Liang](https://pliang279.github.io/). My research interests lie in the field of multimodal learning and its applications to healthcare. I am currently working on developing AI systems that can assist clinicians in making better decisions.
 
-Before joining Stanford, I graduated with the highest honor in Computer Science and Math from Emory University. I was in Emory Brain Network Lab under the supervision of [Dr. Carl Yang](http://www.cs.emory.edu/~jyang71/), working on graph mining in the area of healthcare. 
+Before joining MIT, I was a masters student at Stanford University majoring in Computer Science. I was a research assistant in Stanford SVL and Partnership in AI-Assisted Care (PAC) Lab supervised by [Dr. Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li/) and [Dr. Ehsan Adeli](http://stanford.edu/~eadeli/). 
 
-Before joining Emory Brain Network Lab, I worked with [Dr. John Duncan](https://www.math.emory.edu/people/faculty/individual.php?NUM=392) on umbral moonshine and others. My work was primarily on determining the modular form trace functions obtained from the action of Spin(24) on V-supernatural.
+Before joining Stanford, I graduated with the highest honor in Computer Science and Math from Emory University. I was in Emory Brain Network Lab under the supervision of [Dr. Carl Yang](http://www.cs.emory.edu/~jyang71/), working on graph mining in the area of healthcare.
 
-My research interests lie in Computer Vision, Graph Learning, Bio-Informatics, AI in Healthcare, Interpretability, and Explainability.
-
-[Stanford Profile](https://profiles.stanford.edu/david-dai)
+[//]: # ([Stanford Profile]&#40;https://profiles.stanford.edu/david-dai&#41;)
 
 # Preprints
 
-- **Wei Dai**, Zelun Luo, Zane Durante, Debadutta Dash, Arnold Milstein, Kevin Schulman, Ehsan Adeli, Li Fei-Fei: Towards Fine-Grained Video Question Answering, In Submission to Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+- **Wei Dai**, Zelun Luo, Zane Durante, Debadutta Dash, Arnold Milstein, Kevin Schulman, Ehsan Adeli, Li Fei-Fei: <a href="/r/fine_grained.pdf" target="_blank">Towards Fine-Grained Video Question Answering</a>, In Submission to Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
-- Zelun Luo, Debadutta Dash, **Wei Dai**, Shrinidhi Kowshika Lakshmikanth, Ehsan Adeli, Arnold Milstein, Li Fei-Fei, Kevin Schulman: Clinical Behavioral Atlas, In Submission to The New England Journal of Medicine (NEJM), 2023.
+- **Wei Dai**, Zelun Luo, Debadutta Dash, Shrinidhi Kowshika Lakshmikanth, Ehsan Adeli, Arnold Milstein, Li Fei-Fei, Kevin Schulman: Clinical Behavioral Atlas, In Submission to The New England Journal of Medicine (NEJM), 2023.
 
 # Publications
 
