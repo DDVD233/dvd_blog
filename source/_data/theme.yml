@@ -3,9 +3,9 @@ favicon: /img/favicon.jpg
 avatar: /img/profile.png
 # if author sets in hexo_config, this string doesn't work
 author: 'Wei Dai'
-author_bio: 'MSCS student at Stanford University'
+author_bio: 'Media Lab student at MIT'
 
-since: 2021
+since: 2024
 
 # Top Menu 顶部菜单
 # #title 为页内跳转，单页模式
@@ -34,7 +34,7 @@ social_links:
 #  fab fa-weibo: /
 #  fab fa-weixin: /
 #  fab fa-qq: /
-  fas fa-envelope: mailto:dvd.ai@stanford.edu
+  fas fa-envelope: mailto:dvdai@mit.edu
 #  fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称

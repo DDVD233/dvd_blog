@@ -17,11 +17,12 @@ Before joining Stanford, I graduated with the highest honor in Computer Science 
 
 # Preprints
 
-- **Wei Dai**, Zelun Luo, Zane Durante, Debadutta Dash, Arnold Milstein, Kevin Schulman, Ehsan Adeli, Li Fei-Fei: <a href="/r/fine_grained.pdf" target="_blank">Towards Fine-Grained Video Question Answering</a>, In Submission to Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
-
-- **Wei Dai**, Zelun Luo, Debadutta Dash, Shrinidhi Kowshika Lakshmikanth, Ehsan Adeli, Arnold Milstein, Li Fei-Fei, Kevin Schulman: Clinical Behavioral Atlas, In Submission to The New England Journal of Medicine (NEJM), 2023.
+- Wei Dai, Peilin Chen, Malinda Lu, Daniel Li, Haowen Wei, Hejie Cui, Paul Pu Liang: [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://arxiv.org/abs/2503.07667)
+- **Wei Dai**, Zelun Luo, Zane Durante, Debadutta Dash, Arnold Milstein, Kevin Schulman, Ehsan Adeli, Li Fei-Fei: [Towards Fine-Grained Video Question Answering](https://arxiv.org/abs/2503.06820).
 
 # Publications
+
+- **Wei Dai**, Zelun Luo, Debadutta Dash, Shrinidhi Kowshika Lakshmikanth, Ehsan Adeli, Arnold Milstein, Li Fei-Fei, Kevin Schulman: [Developing ICU Clinical Behavioral Atlas Using Ambient Intelligence and Computer Vision](https://ai.nejm.org/doi/abs/10.1056/AIoa2400590), The New England Journal of Medicine AI (NEJM-AI), 2025.
 
 - **Wei Dai**, Hejie Cui, Xuan Kan, Ying Guo, Carl Yang: Transformer Based Hierarchical Clustering on Brain Networks, IEEE International Symposium on Biomedical Imaging (IEEE-ISBI), 2023.
 
