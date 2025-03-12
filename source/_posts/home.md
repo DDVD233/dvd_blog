@@ -24,7 +24,7 @@ Before joining Stanford, I graduated with the highest honor in Computer Science 
 
 - **Wei Dai**, Zelun Luo, Debadutta Dash, Shrinidhi Kowshika Lakshmikanth, Ehsan Adeli, Arnold Milstein, Li Fei-Fei, Kevin Schulman: [Developing ICU Clinical Behavioral Atlas Using Ambient Intelligence and Computer Vision](https://ai.nejm.org/doi/abs/10.1056/AIoa2400590), The New England Journal of Medicine AI (NEJM-AI), 2025.
 
-- **Wei Dai**, Hejie Cui, Xuan Kan, Ying Guo, Carl Yang: Transformer Based Hierarchical Clustering on Brain Networks, IEEE International Symposium on Biomedical Imaging (IEEE-ISBI), 2023.
+- **Wei Dai**, Hejie Cui, Xuan Kan, Ying Guo, Carl Yang: [Transformer Based Hierarchical Clustering on Brain Networks](https://arxiv.org/abs/2305.04142), IEEE International Symposium on Biomedical Imaging (IEEE-ISBI), 2023.
 
 - Xuan Kan, **Wei Dai**, Hejie Cui, Zilong Zhang, Ying Guo, Carl Yang: [Brain Network Transformer](https://openreview.net/pdf?id=1cJ1cbA6NLN), Conference on Neural Information Processing Systems (NeurIPS), 2022. (Oral Presentation)
 
