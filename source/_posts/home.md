@@ -17,10 +17,17 @@ Before joining Stanford, I graduated with the highest honor in Computer Science 
 
 # Preprints
 
-- Wei Dai, Peilin Chen, Malinda Lu, Daniel Li, Haowen Wei, Hejie Cui, Paul Pu Liang: [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://arxiv.org/abs/2503.07667)
+- **Wei Dai**, Peilin Chen, Chanakya Ekbote, Paul Pu Liang, [QoQ-Med: Building Multimodal Clinical Foundation Models with Domain-Aware GRPO Training](https://arxiv.org/abs/2506.00711).
+
+- Dewei Feng, Carol Li, **Wei Dai**, Paul Pu Liang, [SMELLNET: A Large-scale Dataset for Real-world Smell Recognition](https://arxiv.org/abs/2506.00239)
+
+- Hengzhi Li, Brendon Jiang, Alexander Naehu, Regan Song, Justin Zhang, Megan Tjandrasuwita, Chanakya Ekbote, Steven-Shine Chen, Adithya Balachandran, **Wei Dai**, Rebecca Chang, Paul Pu Liang, [PuzzleWorld: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzlehunts](https://arxiv.org/abs/2506.06211)
+
 - **Wei Dai**, Zelun Luo, Zane Durante, Debadutta Dash, Arnold Milstein, Kevin Schulman, Ehsan Adeli, Li Fei-Fei: [Towards Fine-Grained Video Question Answering](https://arxiv.org/abs/2503.06820).
 
 # Publications
+
+- Wei Dai, Peilin Chen, Malinda Lu, Daniel Li, Haowen Wei, Hejie Cui, Paul Pu Liang: [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://arxiv.org/abs/2503.07667), International Conference on Machine Learning (ICML), 2025.
 
 - **Wei Dai**, Zelun Luo, Debadutta Dash, Shrinidhi Kowshika Lakshmikanth, Ehsan Adeli, Arnold Milstein, Li Fei-Fei, Kevin Schulman: [Developing ICU Clinical Behavioral Atlas Using Ambient Intelligence and Computer Vision](https://ai.nejm.org/doi/abs/10.1056/AIoa2400590), The New England Journal of Medicine AI (NEJM-AI), 2025.
 

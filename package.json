@@ -9,7 +9,7 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "5.4.0"
+    "version": "7.3.0"
   },
   "dependencies": {
     "firebase": "^10.13.1",
@@ -26,6 +26,7 @@
     "hexo-server": "^2.0.0",
     "hexo-theme-landscape": "^0.0.3",
     "hexo-generator-robotstxt": "^0.2.0",
-    "hexo-generator-sitemap": "^2.1.0"
+    "hexo-generator-sitemap": "^2.1.0",
+    "node-sass": "^9.0.0"
   }
 }
